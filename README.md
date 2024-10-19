@@ -1,0 +1,1 @@
+A simples landing page, made to pratice and find where are my biggest dificults through all the assignments of the course.
